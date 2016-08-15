@@ -13,6 +13,6 @@ User powered content, flowing through the circle of life:
 
 4. Automated webpages (where I come in)
 
-[![knowledge article](../assets/stuff/knowledge-article.png)](https://www.export.gov/article?id=Iceland-US-Export-Controls)
+[![knowledge article]({{ site.baseurl }}/assets/stuff/knowledge-article.png)](https://www.export.gov/article?id=Iceland-US-Export-Controls)
 
 `Visualforce` `Bootstrap` `CSS` `JavaScript`

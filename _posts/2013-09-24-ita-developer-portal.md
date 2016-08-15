@@ -5,6 +5,6 @@ updated: 2013-09-24
 
 Built this site during the early ages of Jekyll. 
 
-[![devportal](../assets/stuff/devportal.png)](http://developer.trade.gov/)
+[![devportal]({{ site.baseurl }}/assets/stuff/devportal.png)](http://developer.trade.gov/)
 
 `Jekyll` `CSS` `JavaScript` `Bootstrap`
