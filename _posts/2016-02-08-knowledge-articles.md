@@ -3,13 +3,13 @@ title: Knowledge Articles
 updated: 2016-02-08
 ---
 
-User powered content, flowing through the circle of life: 
+User content powered websites, flowing through the circle of life: 
 
 1. Salesforce input 
 
 2. Elasticsearch endpoint 
 
-3. React app search  
+3. React/Flux search app 
 
 4. Automated webpages (where I come in)
 
