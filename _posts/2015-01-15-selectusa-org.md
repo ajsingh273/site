@@ -3,7 +3,7 @@ title: SelectUSA.gov build
 updated: 2015-01-15
 ---
 
-Migrated them into Github-land. 
+Migrated them (out of Drupal) into Github-land. 
 
 [![selectusa]({{ site.baseurl }}/assets/stuff/selectusa.png)](https://github.com/SelectUSA)
 

@@ -3,11 +3,11 @@ layout: page
 title: About
 ---
 
+{{ site.author_email }} 
+
 Washington, D.C.
 
-{{ site.author_email }}
-
-3 years of Federal Government webservices experience. 
+3 years of Federal Government web-services experience. 
 
 Aspiring PGA Tour pro.
 
