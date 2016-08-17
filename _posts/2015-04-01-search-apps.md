@@ -43,7 +43,7 @@ Built the Jekyll sites and jQuery filter search.
 
 #### Export.gov - Consolidated Screening List Search
 
-Pieced togehter the front-end.
+Pieced togehter this front-end with muliple codebases.
 
 ![CSL]({{ site.baseurl }}/assets/stuff/csl.png)
 
