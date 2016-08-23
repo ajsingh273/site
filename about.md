@@ -9,6 +9,8 @@ Washington, D.C.
 
 3 years of Federal Government web-services experience. 
 
+Keep things default. If you didn't build it, dont customize it. 
+
 Aspiring PGA Tour pro.
 
 Porsche enthusiast.

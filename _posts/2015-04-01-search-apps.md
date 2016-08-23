@@ -45,7 +45,7 @@ Built the Jekyll sites and jQuery filter search.
 
 Pieced togehter this front-end with muliple codebases.
 
-![CSL]({{ site.baseurl }}/assets/stuff/csl.png)
+[![CSL]({{ site.baseurl }}/assets/stuff/csl.png)](http://apps.export.gov/csl-search)
 
 
 #### Export.gov - Market Research Library Search (concept)
