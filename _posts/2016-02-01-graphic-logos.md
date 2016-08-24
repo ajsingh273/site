@@ -3,7 +3,7 @@ title: Graphic Design - logos
 updated: 2016-02-01 
 ---
 
-These, somehow made their way live...
+Put my graphic designer hat on, and these designs somehow made their way live...
 
 ![Trade Developer Portal]({{ site.baseurl }}/assets/stuff/trade_developer.png)
 
