@@ -3,7 +3,7 @@ title: SelectUSA.gov build
 updated: 2015-01-15
 ---
 
-Migrated them (out of Drupal) into the Github/Jekyll/Prose platform. Provided technical documentation and support for the organzation.
+Migrated them (out of Drupal) into the Github/Jekyll/Prose platform. Provided the organzation technical documentation and support.
 
 [![selectusa]({{ site.baseurl }}/assets/stuff/selectusa.png)](https://github.com/SelectUSA)
 

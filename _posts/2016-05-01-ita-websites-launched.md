@@ -3,7 +3,7 @@ title: ITA Websites launched!
 updated: 2016-05-01 
 ---
 
-Years in the making, but the ITA/DOC enterprise websites finnally launched. Worked on a strong team made up of studs. I was fortunate enough to lead and build the public-facing side.
+Years in the making, but the ITA legacy websites finnally launched. Worked on a large team made up of studs. I was fortunate enough to lead, design, and build the public-facing side.
 
 [![export]({{ site.baseurl }}/assets/stuff/export.png)](https://www.export.gov/)
 
