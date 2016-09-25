@@ -1,6 +1,7 @@
 ---
 title: Knowledge Articles
 updated: 2016-02-08
+img: assets/stuff/knowledge-article.png
 ---
 
 User content powered websites, flowing through the circle of life: 

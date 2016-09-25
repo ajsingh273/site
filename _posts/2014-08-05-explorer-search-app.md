@@ -1,6 +1,7 @@
 ---
 title: Explorer
 updated: 2014-08-05
+img: assets/stuff/explorer.png
 ---
 
 Contributed a few iterations to this Ember CLI web app, which perfoms search.

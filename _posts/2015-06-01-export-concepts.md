@@ -1,6 +1,7 @@
 ---
 title: Export.gov Concepts
 updated: 2015-06-01
+img: assets/stuff/export-sleak.jpg
 ---
 
 Many meetings, mockups, and changes of platforms. Eventually Salesforce (SFDC) was implemented. These were some early ideas:

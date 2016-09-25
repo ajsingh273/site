@@ -5,17 +5,21 @@ layout: default
 <aside class="logo"><h2 style="margin-top:0px;margin-bottom:0px;">AJ Singh</h2></aside>
 
 <section>
-	<h4>Results</h4>
+	<hr style="    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);">
+	<h4 style="font-size:23px;margin: 45px 0 0px;">Results</h4>
 	<ul>
 
 		{% for post in site.posts %}
 
-		<li>
-			<div class="post-date">
+		<li style="font-size:13px;width:150px;display: inline-block;">
+			<a href="{{ post.url | prepend: site.baseurl }}">
+				<section class="home-item" style="background-image: url('{{ post.img }}'); background-repeat:no-repeat; background-size: cover;background-position:center bottom;"></section></a>
+			<!--<div class="post-date">
 				<span>{{ post.date | date: "%b %Y" }}</span>
-			</div>
+			</div>-->
 			<div class="title">
-				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+				{{ post.title }}
 			</div>
 		</li>
 

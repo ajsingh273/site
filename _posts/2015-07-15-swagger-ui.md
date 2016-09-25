@@ -1,6 +1,7 @@
 ---
 title: Swagger UI 
 updated: 2015-07-15 
+img: assets/stuff/swagger1.png
 ---
 
 Designed Swagger specifications for ITA Data Services documentation.  

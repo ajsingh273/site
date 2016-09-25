@@ -1,6 +1,7 @@
 ---
 title: Company Site
 updated: 2014-02-10 
+img: assets/stuff/gw.png
 ---
 
 One-page informative site.

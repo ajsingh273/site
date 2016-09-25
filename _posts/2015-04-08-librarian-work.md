@@ -1,6 +1,7 @@
 ---
 title: Some librarian work
 updated: 2014-04-01 
+img: assets/stuff/librarian.png
 ---
 
 Converted valuable PDFs into webpages.
