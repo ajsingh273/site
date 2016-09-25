@@ -136,7 +136,7 @@ span[data-note] {
     }
     &:hover + .logo-prompt,
     &:focus + .logo-prompt {
-      display: inline-block !important;
+       display: none;
     }
     .gravatar {
       margin-top: 3px;
@@ -164,7 +164,7 @@ span[data-note] {
     text-align: center;
     line-height: 1.2;
     top: 50%;
-    margin-top: -10px;
+    margin-top: -200px;
     &:before {
       content: "";
       border-width: 5px 5px 5px 0;
