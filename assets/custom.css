@@ -24,13 +24,13 @@ border: 1px solid #ccc!important;padding: 6em 10px;border-radius: 4px!important;
 }
 
 .home-hr {
-margin-left:0px;margin-right:0px;
+margin-left:5px;margin-right:5px;
 }
 .results-label {
-text-indent:0px;
+text-indent:5px;
 }
 .each-post {
-margin-left:0px;
-margin-right:10px;
+margin-left:5px;
+margin-right:5px;
 }
 }
