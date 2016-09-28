@@ -1,3 +1,16 @@
 .home-item {
 border: 1px solid #ccc!important;padding: 5.5em 10px;border-radius: 4px!important;
 }
+
+.each-post {
+	font-size:13px;width:150px;display: inline-block;
+}
+
+@media only screen and (max-width : 480px) {
+.each-post {
+	font-size:13px;width:135px;display: inline-block;
+}
+.home-item {
+border: 1px solid #ccc!important;padding: 4em 10px;border-radius: 4px!important;
+}
+}
