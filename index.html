@@ -14,12 +14,10 @@ layout: default
 		<li class="each-post">
 			<a href="{{ post.url | prepend: site.baseurl }}">
 				<section class="home-item" style="background-image: url('{{ post.img }}'); background-repeat:no-repeat; background-size: cover;background-position:center bottom;"></section></a>
-			<!--<div class="post-date">
-				<span>{{ post.date | date: "%b %Y" }}</span>
-			</div>-->
 			<div class="title">
 				{{ post.title }}
 			</div>
+			<span>{{ post.date | date: "%b %Y" }}</span>
 		</li>
 
 		{% endfor %}

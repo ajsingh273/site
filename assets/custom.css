@@ -1,5 +1,8 @@
 .home-item {
-border: 1px solid #ccc!important;padding: 5.5em 10px;border-radius: 4px!important;
+border: 1px solid #e6e6e6!important;padding: 5.5em 10px;border-radius: 4px!important;
+}
+.home-item:hover {
+border: 1px solid #d9d9d9!important;padding: 5.5em 10px;border-radius: 4px!important;
 }
 
 .each-post {
