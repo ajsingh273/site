@@ -1,17 +1,19 @@
 ---
-title: ITA Websites launched!
+title: ITA Websites
 updated: 2016-05-01 
 img: assets/stuff/export.png
 ---
 
-Years in the making, but the ITA legacy websites finnally launched. Worked on a large team made up of studs. I was fortunate enough to lead, design, and build the public-facing side.
+The International Trade Administration legacy websites launched! I was fortunate enough to lead the design and build of the public-facing side. 
 
-[![export]({{ site.baseurl }}/assets/stuff/export.png)](https://www.export.gov/)
+![export]({{ site.baseurl }}/assets/stuff/export.png) 
 
-[![susa]({{ site.baseurl }}/assets/stuff/susa-row.png)](https://www.selectusa.gov/)
+[SelectUSA.gov](https://www.selectusa.gov/)
 
-[![ps]({{ site.baseurl }}/assets/stuff/privacy-shield.png)](https://www.privacyshield.gov/)
+[PrivacyShield.gov](https://www.privacyshield.gov/)
 
-[![stopfakes]({{ site.baseurl }}/assets/stuff/stopfakes_home.png)](https://www.stopfakes.gov/)
+[StopFakes.gov](https://www.stopfakes.gov/)
+
+[Export.gov](https://www.export.gov/)
  
 `Salesforce` `Visualforce` `Bootstrap` `CSS` `JavaScript` `PSD` `Unsplash`

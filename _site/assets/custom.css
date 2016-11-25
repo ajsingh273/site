@@ -1,12 +1,12 @@
 .home-item {
-border: 1px solid #e6e6e6!important;padding: 6em 10px;border-radius: 4px!important;
+border: 1px solid #e6e6e6!important;padding: 7em 10px;border-radius: 4px!important;
 }
 .home-item:hover {
-opacity: 0.8;padding: 6em 10px;border-radius: 4px!important;
+opacity: 0.8;padding: 7em 10px;border-radius: 4px!important;
 }
 
 .each-post {
-	font-size:13px;width:150px;display: inline-block;
+	font-size:13px;width:195px;display: inline-block;
 }
 
 .home-hr {
@@ -23,10 +23,10 @@ font-size:18px;margin: 30px 0 -5px;text-indent:20px;
 	font-size:13px;width:170px;display: inline-block;
 }
 .home-item {
-border: 1px solid #e6e6e6!important;padding: 6em 10px;border-radius: 4px!important;
+border: 1px solid #e6e6e6!important;padding: 7em 10px;border-radius: 4px!important;
 }
 .home-item:hover {
-border: 1px solid #d9d9d9!important;padding: 6em 10px;border-radius: 4px!important;
+border: 1px solid #d9d9d9!important;padding: 7em 10px;border-radius: 4px!important;
 }
 
 .home-hr {
@@ -38,5 +38,31 @@ text-indent:5px;
 .each-post {
 margin-left:5px;
 margin-right:5px;
+width:178px;
 }
+}
+
+
+article a {
+	color:#fff;
+border-bottom: none;
+font-weight: bold;
+font-size:14px;
+background: #08c;
+border: 1px solid #08c!important;padding: 0.5em 1em;border-radius: 4px!important;
+	}
+
+.back a {
+color:#000;
+}
+
+.footer {
+padding:15px;
+margin-top:50px;
+margin-bottom:0px;
+background: #f2f2f2;
+border-top: 1px solid #e4e4e4;
+color:#666;
+font-weight: bold;
+text-align: center;
 }

@@ -6,8 +6,9 @@ img: assets/stuff/swagger1.png
 
 Designed Swagger specifications for ITA Data Services documentation.  
 
-[![Sawgger1]({{ site.baseurl }}/assets/stuff/swagger1.png)](http://developer.trade.gov/api/trade-apis.json)
+![Sawgger1]({{ site.baseurl }}/assets/stuff/swagger1.png)
 
-[![Sawgger2]({{ site.baseurl }}/assets/stuff/swagger2.png)](http://developer.trade.gov/api/trade-apis.json)
+![Sawgger2]({{ site.baseurl }}/assets/stuff/swagger2.png) [view](http://developer.trade.gov/api/trade-apis.json)
+
 
 

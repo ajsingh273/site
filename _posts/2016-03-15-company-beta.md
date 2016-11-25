@@ -1,9 +1,9 @@
 ---
-title: New Company beta
+title: Company Site v2
 updated: 2016-03-15
-img: assets/stuff/gw_beta.png
+img: assets/stuff/company_site_v2.png
 ---
 
-[![gw beta]({{ site.baseurl }}/assets/stuff/gw_beta.png)](http://govwizely.github.io/gw/)
+![company site v2]({{ site.baseurl }}/assets/stuff/company_site_v2.png) [view](http://www.govwizely.com/)
 
 `Jekyll` `Bootstrap` `HTML` `CSS` `jQuery` 

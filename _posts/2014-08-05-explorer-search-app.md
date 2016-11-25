@@ -6,6 +6,6 @@ img: assets/stuff/explorer.png
 
 Contributed a few iterations to this Ember CLI web app, which perfoms search.
 
-[![gw]({{ site.baseurl }}/assets/stuff/explorer.png)](http://internationaltradeadministration.github.io/explorer/)
+![gw]({{ site.baseurl }}/assets/stuff/explorer.png) [view](http://internationaltradeadministration.github.io/explorer/)
 
 `Ember-cli` `SAAS`

@@ -6,6 +6,6 @@ img: assets/stuff/gw.png
 
 One-page informative site.
 
-[![gw]({{ site.baseurl }}/assets/stuff/gw.png)](http://www.govwizely.com/)
+![gw]({{ site.baseurl }}/assets/stuff/gw.png) [view](http://www.govwizely.com/)
 
 `Jekyll` `CSS`

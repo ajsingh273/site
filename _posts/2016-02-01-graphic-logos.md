@@ -1,7 +1,7 @@
 ---
-title: Graphic Design - logos
+title: Desings
 updated: 2016-02-01 
-img: assets/stuff/privacy_shield.png
+img: assets/stuff/export_logo.png
 ---
 
 Put my graphic designer hat on, and these somehow made their way live...
