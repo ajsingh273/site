@@ -1,5 +1,5 @@
 ---
-title: Desings
+title: Designs
 updated: 2016-02-01 
 img: assets/stuff/export_logo.png
 ---
@@ -13,4 +13,6 @@ Put my graphic designer hat on, and these somehow made their way live...
 ![Privacy Shield]({{ site.baseurl }}/assets/stuff/privacy_shield.png)
 
 ![API In A Box]({{ site.baseurl }}/assets/stuff/api_in_a_box.png)
+
+![zapiness]({{ site.baseurl }}/assets/stuff/zapiness.png)
 
