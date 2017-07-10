@@ -4,8 +4,8 @@ updated: 2013-09-24
 img: assets/stuff/devportal.png
 ---
 
-Built the ITA Data Services Developer Portal during the early ages of Jekyll. Other organizations soon forked the project for their own platforms. 
+Built the ITA Data Services Developer Portal, with the first release of Jekyll (ruby gem). Other federal organizations soon forked the project. 
 
 ![devportal]({{ site.baseurl }}/assets/stuff/devportal.png) [view](http://developer.trade.gov/)
 
-`Jekyll` `CSS` `JavaScript` `Bootstrap`
+`Jekyll` `Ruby` `CSS` `JavaScript` `Bootstrap`

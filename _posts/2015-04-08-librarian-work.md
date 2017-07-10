@@ -1,5 +1,5 @@
 ---
-title: Some librarian work
+title: some librarian work
 updated: 2014-04-01 
 img: assets/stuff/librarian.png
 ---

@@ -1,7 +1,8 @@
 ---
-title: Events Search app
+title: Events search app
 updated: 2016-11-04
 img: assets/stuff/events_search3.png
+published: false
 ---
 
 Styled the search app. Designed and built the detail page.

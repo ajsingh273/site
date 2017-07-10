@@ -1,0 +1,37 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1" /><title>JS</title><meta name="twitter:card" content="summary" /><meta name="twitter:site" content="@" /><meta name="twitter:title" content="JS" /><meta name="twitter:description" content="Experince working with raw JavaScript and jQuery. Most uses have been for calling data on webpages. Other minimal uses inlcude: animations, pagination, and navigations."><meta name="description" content="Experince working with raw JavaScript and jQuery. Most uses have been for calling data on webpages. Other minimal uses inlcude: animations, pagination, and n..."><link rel="icon" href="/assets/favicon.png"><link rel="apple-touch-icon" href="/assets/touch-icon.png"><link href="https://fonts.googleapis.com/css?family=Karla" rel="stylesheet"><link rel="stylesheet" href="//code.cdn.mozilla.net/fonts/fira.css"><link rel="stylesheet" href="/assets/core.css"><link rel="stylesheet" href="/assets/custom.css"><link rel="canonical" href="/results/js"><link rel="alternate" type="application/atom+xml" title="AJ Singh" href="/feed.xml" /></head><body><aside class="logo"> <a href="/"> <img src="https://avatars1.githubusercontent.com/u/5168273?v=3&s=460/" class="gravatar"> </a> <span class="logo-prompt">Home</span></aside><main> <noscript><style> article .footnotes { display: block; }</style></noscript><article id="post_body"><div class="center"><h1>JS</h1><!--<time>December 24, 2016</time>--></div><div class="divider"></div><p>Experince working with raw JavaScript and jQuery. Most uses have been for calling data on webpages. Other minimal uses inlcude: animations, pagination, and navigations.</p><p>Have some experience with Ember, AngularJS, ReactJS, CoffeeScript and Mustache.js. Working towards getting familiarized with other powerful frameworks: Vue.js, Meteor.</p><h3 id="javascript">JavaScript:</h3><p>in-page API querying <img src="/assets/stuff/query.png" alt="in-page API querying" /></p><p>form validation with custom error messages</p><div class="highlighter-rouge"><pre class="highlight"><code>function validateEmail(email) {
+    console.log(email);
+    var re = /^(([^&lt;&gt;()\[\]\\.,;:\s@"]+(\.[^&lt;&gt;()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+    if (email != '') {
+        return re.test(email);
+    }
+
+    return true;
+}
+</code></pre></div><p>worked with embeddable search widgets <img src="/assets/stuff/wig.png" alt="in-page API querying" /></p><h3 id="jquery">jQuery</h3><p>Implemented a client-side jQuery filter search <img src="/assets/stuff/fed.png" alt="Fed Incetives Search" /> <a href="https://www.selectusa.gov/federal_incentives">view</a></p><p>Utililzed a library like guide of information <img src="/assets/stuff/ipr.png" alt="Fed Incetives Search" /> <a href="https://www.stopfakes.gov/ipr_training">view</a></p><p>dynamic rendering API on a webpage</p><div class="highlighter-rouge"><pre class="highlight"><code>&lt;div id="results_container"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt;
+    $(document).ready(function() {
+        get_results();
+    });
+
+    function get_results() {
+        $.getJSON('https://api.com/', function(d) {
+            $("#results_container").empty();
+            for (x in d.results) {
+
+                var domain = d.results[x].trade_url.replace('https://www.url.gov/', '');
+
+                row = '&lt;div id="result_' + x + '"&gt;&lt;a href="' + domain + '"&gt;&lt;h1 class="result_title"&gt;' + d.results[x].title + '&lt;/h1&gt;&lt;/a&gt;&lt;/div&gt;'
+                if (x &lt; d.results.length - 1) {
+
+                }
+                row = row + "&lt;/div&gt;";
+                $("#results_container").append(row);
+
+            }
+
+        });
+    }
+&lt;/script&gt;
+</code></pre></div><p><code class="highlighter-rouge">Javascript</code> <code class="highlighter-rouge">jQuery</code></p></article><div class="back"> <a href="/">Back</a></div></main></body><div class="footer"> <span class="block">2017 AJ Singh</span></div></html>

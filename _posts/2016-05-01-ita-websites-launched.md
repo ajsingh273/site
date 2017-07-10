@@ -1,10 +1,14 @@
 ---
-title: ITA Websites
-updated: 2016-05-01 
+title: International Trade Administration websites
+updated: 2017-01-01 
 img: assets/stuff/export.png
 ---
 
-The International Trade Administration legacy websites launched! I was fortunate enough to lead the design and build of the public-facing side. 
+Had the responsibility to build the fundamental user interface for all websites at the International Trade Administration. 
+
+Four websites were created by users, utilizing a SFDC built "web app". This tool allows users to configure their entire website (similar to Wix, but for the federal goverment).
+
+These generally consist of promational content, a single sign-on user portal, API genereated search apps, an eCommerce app, and many published articles:
 
 ![export]({{ site.baseurl }}/assets/stuff/export.png) 
 
@@ -16,4 +20,4 @@ The International Trade Administration legacy websites launched! I was fortunate
 
 [Export.gov](https://www.export.gov/)
  
-`Salesforce` `Visualforce` `Bootstrap` `CSS` `JavaScript` `PSD` `Unsplash`
+`SFDC` `Visualforce` `Bootstrap` `CSS` `JavaScript` `jQuery` `Unsplash` `Font Awesome`

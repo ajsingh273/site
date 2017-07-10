@@ -1,11 +1,15 @@
 ---
-title: Trade.gov concept
+title: early concepts...
 updated: 2014-03-18 
 img: assets/stuff/trade-concept.png
 ---
 
-This site was liked by the CIO and management.
-
 ![trade concept]({{ site.baseurl }}/assets/stuff/trade-concept.png)
 
-`Jekyll` `HTML` `CSS` `jQuery`
+![export sleak]({{ site.baseurl }}/assets/stuff/export-sleak.jpg)
+
+![eg bizusa]({{ site.baseurl }}/assets/stuff/eg-bizusa.jpg)
+
+![export side]({{ site.baseurl }}/assets/stuff/export-side.png)
+
+`Jekyll` `HTML` `CSS` `jQuery` `PSD` `Bootstrap`

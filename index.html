@@ -6,7 +6,7 @@ layout: default
 
 <section>
 	<hr class="home-hr">
-	<h4 class="results-label">Portfolio</h4>
+	<h4 class="results-label">Samples</h4>
 	<ul>
 
 		{% for post in site.posts %}
@@ -17,7 +17,7 @@ layout: default
 			<div class="title">
 				{{ post.title }}
 			</div>
-			<span>{{ post.date | date: "%b %Y" }}</span>
+			<span>{{ post.updated | date: "%b %Y" }}</span>
 		</li>
 
 		{% endfor %}

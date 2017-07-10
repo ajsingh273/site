@@ -1,7 +1,8 @@
 ---
-title: Export.gov Concepts
+title: Export.gov concepts
 updated: 2015-06-01
 img: assets/stuff/export-sleak.jpg
+published: false
 ---
 
 Many iterations and changes of platforms. Eventually Salesforce CRM was implemented. These were some early ideas:

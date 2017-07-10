@@ -1,10 +1,10 @@
 ---
-title: Designs
-updated: 2016-02-01 
-img: assets/stuff/export_logo.png
+title: graphics
+updated: 2016-08-01 
+img: assets/stuff/t.png
 ---
 
-Put my graphic designer hat on, and these somehow made their way live...
+Put the graphic designer hat on...
 
 ![Trade Developer Portal]({{ site.baseurl }}/assets/stuff/trade_developer.png)
 
@@ -16,3 +16,4 @@ Put my graphic designer hat on, and these somehow made their way live...
 
 ![zapiness]({{ site.baseurl }}/assets/stuff/zapiness.png)
 
+`PSD` `Gimp` `Pixlr` 
