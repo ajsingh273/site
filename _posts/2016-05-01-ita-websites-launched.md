@@ -6,7 +6,7 @@ img: assets/stuff/export.png
 
 Had the responsibility to build the fundamental user interface for all websites at the International Trade Administration. 
 
-Four websites were created by users, utilizing a SFDC built "web app". This tool allows users to configure their entire website (similar to Wix, but for the federal goverment).
+Four websites were created by users, utilizing a SFDC built "web app". This tool allows users to configure their entire website (similar to Wix, but for the federal government).
 
 These generally consist of promational content, a single sign-on user portal, API genereated search apps, an eCommerce app, and many published articles:
 
