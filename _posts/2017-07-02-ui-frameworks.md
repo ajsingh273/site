@@ -4,14 +4,12 @@ updated: 2017-04-02
 img: assets/stuff/v4.png
 ---
 
-Fluent with **Bootstrap**(+v4). 
+Fluent with **Bootstrap**(v1-v4). 
 
 Presently working with **Standards USA**. 
 
 Experience with **Semantic-UI**. 
 
-Learned the concept of Google's **Material Design**. 
+Learned the *Google* **Material Design** methodologies. 
 
-Familiarzed with other great frameworks: **UIkit**, Yahoo's **Pure**, and **Foundation Zurb**. 
-
-`Bootstrap` `Standards USA` `Semantic` `UIkit` `Material` `Pure` `Foundation`
+Familiar with other frameworks: **UIkit**, *Yahoo* **Pure**, and **Foundation Zurb**. 

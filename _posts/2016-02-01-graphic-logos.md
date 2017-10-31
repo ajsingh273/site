@@ -1,7 +1,7 @@
 ---
 title: graphics
 updated: 2016-08-01 
-img: assets/stuff/t.png
+img: assets/stuff/privacy_shield2.png
 ---
 
 Put the graphic designer hat on...

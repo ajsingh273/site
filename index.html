@@ -6,7 +6,9 @@ layout: default
 
 <section>
 	<hr class="home-hr">
-	<h4 class="results-label">Samples</h4>
+	{% include highlights.html %}
+
+	<h4 class="results-label">Portfolio</h4>
 	<ul>
 
 		{% for post in site.posts %}
