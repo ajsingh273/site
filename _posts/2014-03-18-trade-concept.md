@@ -1,7 +1,7 @@
 ---
 title: early concepts...
 updated: 2014-03-18 
-img: assets/stuff/trade-concept.png
+img: assets/stuff/ccg.png
 ---
 
 International Trade Administration agencies:

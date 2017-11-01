@@ -4,15 +4,17 @@ updated: 2017-06-06
 img: assets/stuff/sf.png
 ---
 
-**Visualforce page/component**
+Experience working with: 
 
-**Apex Class**
+* Visualforce pages/components
+* Apex Classes
+* Static Resources
+* Objects
+* Sites
+* MavensMate
+* Eclipse IDE
+* Lightning
 
-**Static Resource**
+![sf org]({{ site.baseurl }}/assets/stuff/sforg.png) 
 
-**Object**
-
-**Site**
-
-**Lightning**
-
+![mavensmate]({{ site.baseurl }}/assets/stuff/mavensmate.png) 

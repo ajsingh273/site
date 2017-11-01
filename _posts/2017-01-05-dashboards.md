@@ -4,10 +4,12 @@ updated: 2017-01-05
 img: assets/stuff/assistance.png
 ---
 
-**Assitance** - Dashboard for user case services 
 
-**Doors** - Dashboard of active PrivacyShield.gov ecommerce applications. Allows users to enter active U.S. or E.U. applications for further edits.
 
-**MyOrders** - Receipt style dashboard of submitted PrivacyShield.gov ecommerce applcations.
+**Assitance** - used for domain specific case services 
 
-**MyApplications** - Export.gov dashboard of forms for Eviromental Solutions toolkit services.
+**Doors** - active PrivacyShield.gov applications. Allows users to re-vist active U.S. or E.U. applications for addtional editing.
+
+**MyOrders** - receipt-style layout of submitted PrivacyShield.gov applcations.
+
+**MyApplications** - Export.gov Eviromental Solutions toolkit forms.
