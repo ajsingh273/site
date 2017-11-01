@@ -4,7 +4,7 @@ updated: 2014-04-01
 img: assets/stuff/ita-central.png
 ---
 
-Built a SharePoint master page and home page for the ITA Central intranet.
+Desinged and built a SharePoint master page for the ITA Central intranet.
 
 ![ITA Central]({{ site.baseurl }}/assets/stuff/ita-central.png)
 

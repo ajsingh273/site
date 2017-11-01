@@ -4,8 +4,6 @@ updated: 2014-03-18
 img: assets/stuff/ccg.png
 ---
 
-International Trade Administration agencies:
-
 ![trade concept]({{ site.baseurl }}/assets/stuff/trade-concept.png)
 
 ![export sleak]({{ site.baseurl }}/assets/stuff/export-sleak.jpg)
