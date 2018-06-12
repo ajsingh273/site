@@ -4,13 +4,13 @@ updated: 2017-01-01
 img: assets/stuff/export.png
 ---
 
-Had the responsibility to design and develop the fundamental user interface for all websites at the International Trade Administration. 
+Had the opportunity to design and develop the fundamental website for the International Trade Administration. 
 
-Collaboated with the Salesforce and Webservices teams for a smooth handoff.
+Underneath, using a custom Salesforce site builder application called "WebApp", buisness users created many data-driven websites.
 
-User generated sites, using a SFDC page builder called "WebApp". This tool allows users to create and deploy websites with no development necessary.
+The site and page elements are configurable. The content is atomized into bite size pieces. Other options include adding an API genereated site search, an eCommerce app, and a article library. 
 
-Most pages showcase promational atom content. To complete the site: a single sign-on user portal, API genereated search apps, an eCommerce app, and many published articles:
+All websites fall under a single sign-on portal which allows users to view the same content across community domains.
 
 ![susa hero]({{ site.baseurl }}/assets/stuff/susahero.png) 
 
